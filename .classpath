@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="G:/opencv/opencv/build/java/x64"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/client-combined-3.7.1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/client-combined-3.7.1.jar"/>
+	<classpathentry kind="lib" path="lib/libs/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="lib/libs/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="lib/libs/byte-buddy-1.7.5.jar"/>
+	<classpathentry kind="lib" path="lib/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="lib/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/libs/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/libs/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="lib/encode.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/opencv-330"/>
+	<classpathentry kind="lib" path="H:/java/mylib/encode.jar"/>
+	<classpathentry kind="lib" path="lib/JTattoo.jar"/>
+	<classpathentry kind="lib" path="lib/substance.jar"/>
+	<classpathentry kind="lib" path="lib/weblaf-complete-1.28.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
